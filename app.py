@@ -15,7 +15,7 @@ from reportlab.lib.enums import TA_CENTER, TA_LEFT
 # CONFIGURACIÓN DE LA PÁGINA
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="Evaluador de Vacantes - Mauricio Padilla",
+    page_title="Evaluador de Vacantes",
     page_icon="💼",
     layout="wide"
 )
@@ -26,11 +26,11 @@ st.set_page_config(
 PROFILE = {
     "nombre": "Mauricio Padilla Ureña",
     "titulos": "M.Sc. en Sociología (UCR) | Bach. en Trabajo Social (UCR) | Esp. Mejora Continua (Fidélitas)",
-    "idioma": "Inglés B2 Profesional / Fluido | Español Nativo",
+    "idioma": "Inglés B2 Profesional | Español Nativo",
     "experiencia_anios": "+8 años en RRHH, L&D, Relaciones Laborales y Gestión Educativa",
-    "ubicacion": "Costa Rica (San José / Heredia / Alajuela / Coyol)",
+    "ubicacion": "Costa Rica (San José / Heredia / Alajuela)",
     "hard_skills": [
-        "L&D Strategy & Instructional Design (Job Instruction - JI, ADDIE)",
+        "L&D Strategy & Instructional Design",
         "Employee Relations & Labor Law (Costa Rica)",
         "Investigaciones Laborales (Acoso Laboral / Hostigamiento Sexual)",
         "LMS Administration (Moodle, Workday, LearnDash)",
